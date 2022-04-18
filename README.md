@@ -12,13 +12,13 @@
 
 
 <h2> Background </h2>
-<hr>
+
 
 <p>As a Senior Manager at the Advisory Services team on a Big Four firm. One of your most important clients, a prominent investment bank, is interested in offering a new cryptocurrencies investment portfolio for its customers, however, they are lost in the immense universe of cryptocurrencies. They ask you to help them make sense of it all by generating a report of what cryptocurrencies are available on the trading market and how they can be grouped using classification. </p><br>
 
 
 <h2> Process </h2>
-<hr>
+
 
 <ul>
     <li><u>Data Preprocessing:</u> Prepare data for dimension reduction with PCA and clustering using K-Means.
@@ -35,7 +35,7 @@
 
 
 <h2> Files </h2>
-<hr>  
+
     
 [Crypto Clustering](crypto_clustering.ipynb)
 <br>
@@ -43,7 +43,7 @@
 
 
 <h2> Technologies Used: </h2>
-<hr>
+
 
    - hvplot
    - matplotlib  
